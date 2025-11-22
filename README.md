@@ -138,7 +138,7 @@ plt.show()
 <img width="1042" height="851" alt="image" src="https://github.com/user-attachments/assets/17e0e06b-6cfc-4aaa-a1cb-1b2a6177a864" />
 
 ## DCM
-<img width="1494" height="735" alt="image" src="https://github.com/user-attachments/assets/85b1fc8d-5e73-4791-a44f-a68553ac5ecd" />
+<img width="1494" height="735" alt="image" src="https://github.com/user-attachments/assets/85b1fc8d-5e73-4791-a44f-a68553ac5ecd" /> 
 
 # Results
 Thus, the PCM and DCM codes have been successfully executed, and the corresponding waveforms have been generated.
